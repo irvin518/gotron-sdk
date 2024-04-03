@@ -150,8 +150,8 @@ func init() {
 var (
 	// VersionWrapDump meant to be set from main.go
 	VersionWrapDump = ""
-	versionLink     = "https://api.github.com/repos/fbsobreira/gotron-sdk/releases/latest"
-	versionTagLink  = "https://api.github.com/repos/fbsobreira/gotron-sdk/git/ref/tags/"
+	versionLink     = "https://api.github.com/repos/irvin518/gotron-sdk/releases/latest"
+	versionTagLink  = "https://api.github.com/repos/irvin518/gotron-sdk/git/ref/tags/"
 	versionFormat   = regexp.MustCompile("v[0-9]+-[a-z0-9]{7}")
 )
 
